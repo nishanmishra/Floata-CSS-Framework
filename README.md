@@ -4,6 +4,12 @@
 
 The Best CSS Framework with Dark Mode Introduced. The framework is built entirely using CSS variables The class names should be instantly familiar to anyone who has used Bootstrap. Many of the components found in Floata are built to work without JavaScript. Floata CSS Framework works with only one .CSS file. A lightweight and Powerful Framework to grant you immortal power for dev.
 
+# Documentation
+
+For Official Documentation of the Framework, Visit the official site.
+
+Official Site:
+
 # Quick Start
 
 Floata UI is Constantly in development and will be ever in future with no doubt. Get Started with Floata with Some Cool Ways:
