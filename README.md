@@ -22,7 +22,10 @@ Just copy paste this code in your head tag of your HTML code and rest is done by
 ```
 # CDN
 
-Use Floata CSS Framework with CDN Link:https://cdn.jsdelivr.net/gh/nishanmishra/Floata-CSS-Framework@50257d412ba01a41196eeb112f270caebcfde750/floata.min.css
+Use Floata CSS Framework with CDN Link:
+```
+https://cdn.jsdelivr.net/gh/nishanmishra/Floata-CSS-Framework@50257d412ba01a41196eeb112f270caebcfde750/floata.min.css
+```
 
 # Downloading
 
@@ -34,7 +37,10 @@ GitHub Repo:
 
 Floata CSS Can be installed and used with a simple method which is inserting the CDN link to the HTML project.
 
-CDN:https://cdn.jsdelivr.net/gh/nishanmishra/Floata-CSS-Framework@50257d412ba01a41196eeb112f270caebcfde750/floata.min.css
+CDN:
+```
+https://cdn.jsdelivr.net/gh/nishanmishra/Floata-CSS-Framework@50257d412ba01a41196eeb112f270caebcfde750/floata.min.css
+```
 
 For Full and Clean Code Visit Official Website.
 
