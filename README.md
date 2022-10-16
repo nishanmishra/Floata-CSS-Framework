@@ -14,6 +14,12 @@ Official Site:
 
 Floata UI is Constantly in development and will be ever in future with no doubt. Get Started with Floata with Some Cool Ways:
 
+# Direct
+
+Just copy paste this code in your <head></head> tag of your HTML code and rest is done by Floata. You just play with classes....
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nishanmishra/Floata-CSS-Framework@50257d412ba01a41196eeb112f270caebcfde750/floata.min.css">
+```
 # CDN
 
 Use Floata CSS Framework with CDN Link:https://cdn.jsdelivr.net/gh/nishanmishra/Floata-CSS-Framework@50257d412ba01a41196eeb112f270caebcfde750/floata.min.css
